@@ -13,7 +13,7 @@ Deixei minha antiga profissão como **educador físico** e **vendi minha moto** 
 Atualmente, estou focado em construir aplicações **Full Stack modernas** usando **Next.js, React, TypeScript, Node.js, Prisma e PostgreSQL**.  
 Busco sempre escrever código limpo, performático e com propósito.
 
-🚀 Minha missão é criar soluções que unam **tecnologia, design e impacto real**.
+🚀 Minha missão é criar soluções que unam **tecnologia e impacto real**.
 
 ---
 
