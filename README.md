@@ -31,8 +31,9 @@ Today, I specialize in **Next.js, React, TypeScript, Node.js, Prisma, and Postgr
 ### 🧠 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,nodejs,prisma,postgresql,tailwind,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,nodejs,prisma,postgresql,tailwind,git,github,vscode,laravel,nestjs" />
 </p>
+
 
 ---
 
