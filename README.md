@@ -1,7 +1,7 @@
 # Ismael-Oliveira
 <!-- README.md -->
 <h1 align="center">👋 Olá, eu sou o Ismael Oliveira</h1>
-<h3 align="center">Software Engineer | Full Stack Developer | Next.js • TypeScript • Node.js • PostgreSQL • Prisma</h3>
+<h3 align="center">Software Engineer | Full Stack Developer | Next.js • TypeScript • JavaScript • Node.js • Nest.js • Laravel • PostgreSQL • Prisma</h3>
 
 ---
 
